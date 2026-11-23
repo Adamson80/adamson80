@@ -39,6 +39,6 @@ My interests include AI evaluation, agentic coding, software testing, debugging 
 
 ## Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/ahmed-adamson-a58675450/)
+- [LinkedIn](https://www.linkedin.com/in/ahmed-adamson-7a7962451/)
 - [GitHub](https://github.com/Adamson80)
 - Email: Adamsonahmed80@gmail.com
