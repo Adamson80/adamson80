@@ -1,3 +1,5 @@
+
+# Hi, I'm Ahmed Adamson 👋
 ### Full-Stack & AI Engineer
 
 Agentic Coding | Software Engineering | Code Review & Debugging | AI Evaluation
