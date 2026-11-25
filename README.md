@@ -1,22 +1,20 @@
+### Professional Portfolio
 
-# Hi, I'm Ahmed Adamson 👋
+[Visit My Portfolio Website](https://adamson80.github.io/)
 
-## Full-Stack & AI Engineer
+### Selected Projects
 
-### Work Experience
+#### PolicyCheck AI
+Rule-based response evaluation and policy compliance dashboard with scoring and CSV reporting.
 
-- Full-Stack / AI Engineer | Bentley Systems | March 2026 - Present
-- Machine Learning Engineer | Pathcore | May 2024 - February 2026
-- Full-Stack Developer | Geotab | January 2024 - March 2024
-- Full-Stack Developer, CRM System | Future Fertility | January 2022 - November 2023
+[Live Demo](https://adamson80.github.io/policycheck-ai/) | [Source Code](https://github.com/Adamson80/policycheck-ai)
 
-### Skills
+#### VendorMatch AI
+Supplier matching and duplicate detection platform using similarity scoring.
 
-Python, JavaScript, TypeScript, Java, HTML, CSS, SQL, React, Next.js, Tailwind CSS, FastAPI, Node.js, PostgreSQL, MongoDB, Redis, PyTorch, Scikit-learn, LangChain, AI Evaluation, AWS, Docker, GitHub, Claude Code, Cursor and OpenAI Codex.
+[Live Demo](https://adamson80.github.io/vendormatch-ai/) | [Source Code](https://github.com/Adamson80/vendormatch-ai)
 
-### Contact
+#### BECShield AI
+Email security and phishing risk analysis tool with risk scoring and security reporting.
 
-- Location: London, Ontario, Canada
-- Email: Adamsonahmed80@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/ahmed-adamson-7a7962451/)
-- [GitHub](https://github.com/Adamson80)
+[Live Demo](https://adamson80.github.io/becshield-ai/) | [Source Code](https://github.com/Adamson80/becshield-ai)
