@@ -1,6 +1,7 @@
 
 # Hi, I'm Ahmed Adamson 👋
-### Full-Stack & AI Engineer
+
+## Full-Stack & AI Engineer
 
 Agentic Coding | Software Engineering | Code Review & Debugging | AI Evaluation
 
@@ -8,36 +9,44 @@ Agentic Coding | Software Engineering | Code Review & Debugging | AI Evaluation
 
 ## About Me
 
-Full-stack and AI engineer focused on building applications, backend services, machine learning workflows and enterprise integrations.
+Passionate about software engineering, artificial intelligence, machine learning, application development and technical quality assurance.
 
-My interests include AI evaluation, agentic coding, software testing, debugging and application development.
+My interests include building intelligent applications, evaluating AI responses, debugging software and developing secure technology solutions.
 
 ## Work Experience
 
-- **Full-Stack / AI Engineer**
-  - 9series Inc | March 2026 – Present
+- Full-Stack / AI Engineer | [Actual Employer]
+- Machine Learning Engineer | [Actual Employer]
+- Full-Stack Developer | [Actual Employer]
+- Full-Stack Developer, CRM System | [Actual Employer]
 
-- **Machine Learning Engineer**
-  - Athana AI | May 2024 – February 2026
+## Education
 
-- **Full-Stack Developer**
-  - IndexCV | January 2024 – March 2024
-
-- **Full-Stack Developer, CRM System**
-  - Hertz | January 2022 – November 2023
+- PhD in Computer Science | [University]
+- Master's in Software Engineering | [University]
+- Bachelor's in Computer Science | [University]
+- Diploma in Computer Programming | [College]
 
 ## Technical Skills
 
-- Programming: Python, JavaScript, TypeScript, Java
-- Frontend: React, Next.js, HTML, CSS, Tailwind CSS
+- Languages: Python, TypeScript, JavaScript, Java, SQL, HTML, CSS
+- Frontend: React, Next.js, Tailwind CSS
 - Backend: FastAPI, Node.js, Express.js
-- Databases: PostgreSQL, MongoDB, Redis, SQL
-- AI & Machine Learning: PyTorch, Scikit-learn, Hugging Face
-- AI Integration: OpenAI, Anthropic, LangChain, RAG, MCP
-- AI Evaluation: Promptfoo, OpenAI Evals, LangSmith, Ragas
-- Testing: Pytest, Jest, Playwright, Postman
+- Databases: PostgreSQL, MongoDB, Redis
+- AI & Machine Learning: PyTorch, Scikit-learn, LangChain, Hugging Face
+- AI Evaluation: Promptfoo, DeepEval, Ragas, OpenAI Evals, LangSmith
 - Cloud & DevOps: AWS, Docker, Linux, GitHub Actions
-- Coding Tools: Claude Code, Cursor, GitHub Copilot, OpenAI Codex
+- Testing: Pytest, Jest, Playwright, Postman
+- Agentic Coding: Claude Code, Cursor, GitHub Copilot, OpenAI Codex
+
+## Projects of Interest
+
+- Full-Stack Data Platform
+- AI Evaluation & Optimization Platform
+- PolicyGuard AI
+- VendorLens AI
+- BECBarrier
+- RippleGate
 
 ## Connect With Me
 
